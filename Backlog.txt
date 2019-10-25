@@ -22,12 +22,19 @@ terminos y condiciones
 1)Agregar Tarea: Debe poder comentarse, tener titulo, **agregar el paso a paso de la tarea**, Fecha de asignacion
                 Mostrar fecha donde debes realizarla, fecha de vencimiento de la tarea
 
-1.2)Quitar/Modificar: poder modificar cada funcionalidad y distincion de la tarea y/o removerla de la lista
+3,4,5)Quitar/Modificar/ completar: poder modificar cada funcionalidad y distincion de la tarea y/o removerla de la lista si 
+                        esta completada o deseo removerla. 
 
-2) Destacarla: Debo poder decir si es "Importante","iniciada", "en progreso", "vencida", "completa"
+8) Destacarla: Debo poder decir si es "Importante", "vencida", "completa"
 
-3) Notificaciones: Informar tiempos desde "tarea iniciada" hasta "tarea vencida" de cada tarea ingresada. 
+9) Notificaciones: Informar  "tarea vencida" de cada tarea ingresada. y poder ordenarlas por fecha
 
+
+1) Guardar Local: Serializar y Local storage. 
+
+7) Buscar 
+
+6)Filtrar
 
 
 
