@@ -1,0 +1,34 @@
++Diseño - Que debe mostrarse
+
+1) login.
+
+2) Funciones
+
+3) Agenda
+
+4) Barra de Busqueda y navegacion
+
+
++Features login
+
+input usuario
+input contraseña
+validaciones
+opciones de ingreso (FB,GitHUB,GMAIL)
+terminos y condiciones 
+
++Features Funciones
+
+1)Agregar Tarea: Debe poder comentarse, tener titulo, **agregar el paso a paso de la tarea**, Fecha de asignacion
+                Mostrar fecha donde debes realizarla, fecha de vencimiento de la tarea
+
+1.2)Quitar/Modificar: poder modificar cada funcionalidad y distincion de la tarea y/o removerla de la lista
+
+2) Destacarla: Debo poder decir si es "Importante","iniciada", "en progreso", "vencida", "completa"
+
+3) Notificaciones: Informar tiempos desde "tarea iniciada" hasta "tarea vencida" de cada tarea ingresada. 
+
+
+
+
+
